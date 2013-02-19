@@ -1,16 +1,9 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package eu.optimis.interopt.provider;
 
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- *
- * @author A545568
- */
+
 public class Service {
     
     private String id;

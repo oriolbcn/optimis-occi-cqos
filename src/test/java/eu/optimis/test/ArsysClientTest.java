@@ -1,6 +1,3 @@
-/**
- *
- */
 package eu.optimis.test;
 
 import eu.optimis.interopt.provider.ServiceComponent;
@@ -18,9 +15,6 @@ import java.net.UnknownServiceException;
 import java.util.List;
 import java.util.Vector;
 
-/**
- * @author csalcedo/hrasheed
- */
 public class ArsysClientTest extends TestCase
 {
 

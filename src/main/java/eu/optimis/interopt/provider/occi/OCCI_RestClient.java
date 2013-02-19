@@ -25,10 +25,6 @@ import org.codehaus.jettison.json.JSONArray;
 import org.codehaus.jettison.json.JSONException;
 import org.codehaus.jettison.json.JSONObject;
 
-/**
- *
- * @author oriol.collell
- */
 public class OCCI_RestClient {
     
     public static final String KIND_TAG = "kind";
